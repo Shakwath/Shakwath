@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **React, Node.js.**
 
-- 💬**I'm a dedicated web developer with a deep passion for building engaging and efficient digital experiences. I specialize in JavaScript, React, Tailwind CSS, and Firebase, crafting intuitive user interfaces and seamless functionality. I love solving complex problems, optimizing performance, and creating projects that make an impact. Whether it's designing a sleek portfolio, managing data with Context API and local storage, or developing innovative applications, I’m always eager to learn and push the boundaries of web development.**
-
 - 📫 Reach me **shakawathhossain0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
