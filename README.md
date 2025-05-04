@@ -1,14 +1,19 @@
-<h1 align="center">Assalamolaikhum 👋, I'm [Mohammad Shakwath]</h1>
+<h1 align="center">Hi 👋, I'm Mohammad Shakwath</h1>
+ <h3 align="center">A passionate frontend developer.</h3>
+ 
+ - 🌱 I’m currently learning **Node.js,MongoDB**
 
-<p align="center">
-  <a href="https://github.com/your-username">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=junior Web+Developer;Open+Source+Contributor;Lifelong+Learner" alt="Typing SVG" />
-  </a>
-</p>
-
----
-
-### 🧰 Tech Stack
+ 
+ - 📫 Reach me **shakawathhossain0@gmail.com**
+ 
+ <h3 align="left">Connect with me:</h3>
+ <p align="left">
+ <a href="https://linkedin.com/in/https://www.linkedin.com/in/shakawath-hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shakawath-hossain" height="30" width="40" /></a>
+ <a href="https://fb.com/https://www.facebook.com/shakwathhossain.mohammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shakwathhossain.mohammad" height="30" width="40" /></a>
+ <a href="https://www.youtube.com/c/https://www.youtube.com/@edulift2023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@edulift2023" height="30" width="40" /></a>
+ </p>
+ 
+ <h3 align="left">🧰Languages and Tools:</h3>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
@@ -18,39 +23,8 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
----
-
-### 🧠 Currently Learning
-- Next.js ⚡
-- GraphQL 🚀
-- MongoDB
-
----
-
-### 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=firefox&logoColor=white)](https://yourportfolio.com)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shakawathhossain0@gmail.com)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+----
+ 
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shakwath&show_icons=true&locale=en&layout=compact" alt="shakwath" /></p>
+ 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakwath&label=Profile%20views&color=0e75b6&style=flat" alt="shakwath" /> </p>
