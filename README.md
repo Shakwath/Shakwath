@@ -1,90 +1,86 @@
-# Assalamu Alaikum, I'm Md Shakwath Hossain
 
-### Frontend Developer | React.js | Next.js | JavaScript
+<h1 align="center"><b>Hi, I'm Md Shakwath Hossain!</b>
+</h1>
+<h3 align="center"><b>CSE Undergrad || Loves to work in Javascript & TypeScript based frameworks</b></h3>
+<h4 align="center">a passionate CSE student from Bangladesh who loves creating impactful web applications.  
 
-I'm a passionate **Frontend Developer** who loves building modern, responsive, and user-friendly web applications.
-
-* 🔭 Currently working on **React.js & Full-Stack Web Projects**
-* 🌱 Currently learning **Next.js & TypeScript**
-* 🎓 CSE Student at **International Islamic University Chittagong**
-* 📫 Email: **[shakawathhossain0@gmail.com](mailto:shakawathhossain0@gmail.com)**
-* 🌐 Portfolio: **https://mdshakwathportfolio.vercel.app/**
+Currently focused on **web application development** using JavaScript frameworks like **React** and **Node.js**, with a strong mindset for solving problems through clean, efficient code. </h4>
 
 ---
+<h2 align="center">🛠️ My Skills</h2>
 
-## 🌐 Connect With Me
+<table align="center">
+  <tr>
+    <th>Category</th>
+    <th>Technology</th>
+    <th>Purpose</th>
+  </tr>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/shakawath-hossain" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/shakwathhossain.mohammad" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@edulift2023" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="mailto:shakawathhossain0@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+  <!-- Frontend -->
+  <tr>
+    <td rowspan="4"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=html" width="24"/> HTML</td>
+    <td>Structure of web pages</td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=css,tailwind" width="24"/> CSS / Tailwind</td>
+    <td>Modern styling and responsive design</td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=js,ts" width="24"/> JavaScript / TypeScript</td>
+    <td>Client-side logic with type safety</td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=react" width="24"/> React</td>
+    <td>Component-based UI development</td>
+  </tr>
 
+  <!-- Backend -->
+  <tr>
+    <td rowspan="2"><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs" width="24"/> Node.js</td>
+    <td>Server-side development & APIs</td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=express" width="24"/> Express.js</td>
+    <td>Building RESTful APIs and backend services</td>
+  </tr>
+
+  <!-- Database -->
+  <tr>
+    <td><b>Database</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb" width="24"/> MongoDB</td>
+    <td>NoSQL document-based storage</td>
+  </tr>
+
+  <!-- Programming -->
+  <tr>
+    <td><b>Programming</b></td>
+    <td><img src="https://skillicons.dev/icons?i=cpp" width="24"/> C++</td>
+    <td>Problem solving & algorithms</td>
+  </tr>
+
+</table>
 ---
 
-## 🛠️ Tech Stack
+## 📚 Currently Learning
 
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
-</p>
-
-### Backend & Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
-</p>
-
-### Tools & Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma" />
-</p>
-
-### Currently Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=typescript,nextjs" />
-</p>
-
+- 🤖 **Natural Language Processing** – exploring core concepts for AI/ML project and research Paper  
+- ⚡ **Next.js** – building modern full-stack React applications with SSR & performance optimization  
+- 🔐 **Better Auth** – implementing secure and scalable authentication systems  
 ---
 
-## Featured Projects
-
-### Payment Tracker
-
-A payment management system designed to track student payments, payment history, dues, and administrative activities.
-
-**Tech:** React.js, Vite, Tailwind CSS, DaisyUI, Node.js, Express.js, MongoDB
-
-### CareerForge BD
-
-An AI-powered career platform designed to help job seekers analyze CVs, improve ATS scores, identify missing skills, and prepare for interviews.
-
-**Tech:** Next.js, TypeScript, Prisma, AI APIs
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaqiulislamkafi&layout=compact&theme=radical" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=thaqiulislamkafi&show_icons=true&theme=radical&hide_title=false&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="180px" />
 
 ---
-
-## 👀 Profile Views
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=shakwath&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=thaqiulislamkafi&theme=radical&hide_border=false)
 
 ---
+## 📫 Contact Me
 
-## 💬 Let's Connect
-
-I'm always interested in collaborating on interesting web development projects, learning new technologies, and building useful products.
-
-**Thanks for visiting my profile! ⭐**
+- ✉️ Email: [shakawathhossain0@gmail.com](mailto:shakawathhossain0@gmail.com])  
+- 📱 Phone: +8801609503460 
+- 🌐 Facebook: [facebook.com/shakwathhossain.mohammad](https://www.facebook.com/shakwathhossain.mohammad)  
+- 💼 LinkedIn: [linkedin.com/in/shakawath-hossain](https://www.linkedin.com/in/shakawath-hossain)  
+- 🌐 Portfolio: [mdshakwathportfolio.vercel.app](https://mdshakwathportfolio.vercel.app/)
