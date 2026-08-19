@@ -69,14 +69,6 @@ Currently focused on **web application development** using JavaScript frameworks
 - ⚡ **Next.js** – building modern full-stack React applications with SSR & performance optimization  
 - 🔐 **Better Auth** – implementing secure and scalable authentication systems  
 ---
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaqiulislamkafi&layout=compact&theme=radical" alt="Top Languages" />
-<img src="https://github-readme-stats.vercel.app/api?username=thaqiulislamkafi&show_icons=true&theme=radical&hide_title=false&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="180px" />
-
----
-![GitHub Streak](https://streak-stats.demolab.com?user=thaqiulislamkafi&theme=radical&hide_border=false)
-
----
 ## 📫 Contact Me
 
 - ✉️ Email: [shakawathhossain0@gmail.com](mailto:shakawathhossain0@gmail.com])  
