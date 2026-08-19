@@ -1,31 +1,114 @@
-<h1 align="center">Assalamolaikhum</h1>
- <h3 align="center">A passionate frontend developer.</h3>
- 
- - 🌱 I’m currently learning **Next Js,Typescript**
+# 👋 Assalamu Alaikum, I'm Md Shakwath Hossain
 
- 
- - 📫 Reach me **shakawathhossain0@gmail.com**
- - Portfolio **https://mdshakwathportfolio.vercel.app/**
- 
- <h3 align="left">Connect with me:</h3>
- <p align="left">
- <a href="https://linkedin.com/in/https://www.linkedin.com/in/shakawath-hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shakawath-hossain" height="30" width="40" /></a>
- <a href="https://fb.com/https://www.facebook.com/shakwathhossain.mohammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shakwathhossain.mohammad" height="30" width="40" /></a>
- <a href="https://www.youtube.com/c/https://www.youtube.com/@edulift2023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@edulift2023" height="30" width="40" /></a>
- </p>
- 
- <h3 align="left">🧰Languages and Tools:</h3>
+### 🚀 Frontend Developer | React.js | Next.js | JavaScript
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
+I'm a passionate **Frontend Developer** who loves building modern, responsive, and user-friendly web applications.
 
-----
- 
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shakwath&show_icons=true&locale=en&layout=compact" alt="shakwath" /></p>
- 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakwath&label=Profile%20views&color=0e75b6&style=flat" alt="shakwath" /> </p>
+* 🔭 Currently working on **React.js & Full-Stack Web Projects**
+* 🌱 Currently learning **Next.js & TypeScript**
+* 💡 Interested in **Frontend Development, UI/UX & Full-Stack Development**
+* 🎓 CSE Student at **International Islamic University Chittagong**
+* 📫 Email: **[shakawathhossain0@gmail.com](mailto:shakawathhossain0@gmail.com)**
+* 🌐 Portfolio: **https://mdshakwathportfolio.vercel.app/**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/shakawath-hossain" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/shakwathhossain.mohammad" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@edulift2023" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="mailto:shakawathhossain0@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+</p>
+
+### Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</p>
+
+### Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma" />
+</p>
+
+### Currently Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=typescript,nextjs" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 💳 Payment Tracker
+
+A payment management system designed to track student payments, payment history, dues, and administrative activities.
+
+**Tech:** React.js, Vite, Tailwind CSS, DaisyUI, Node.js, Express.js, MongoDB
+
+### 🛒 Sole Style
+
+A modern sneaker e-commerce platform with authentication, product management, shopping functionality, and dashboard features.
+
+**Tech:** React.js, Firebase, Node.js, Express.js, MongoDB, Tailwind CSS
+
+### 💼 CareerForge BD
+
+An AI-powered career platform designed to help job seekers analyze CVs, improve ATS scores, identify missing skills, and prepare for interviews.
+
+**Tech:** Next.js, TypeScript, Prisma, AI APIs
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shakwath&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakwath&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shakwath&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=shakwath&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 💬 Let's Connect
+
+I'm always interested in collaborating on interesting web development projects, learning new technologies, and building useful products.
+
+**Thanks for visiting my profile! ⭐**
