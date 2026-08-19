@@ -76,3 +76,8 @@ Currently focused on **web application development** using JavaScript frameworks
 - 🌐 Facebook: [facebook.com/shakwathhossain.mohammad](https://www.facebook.com/shakwathhossain.mohammad)  
 - 💼 LinkedIn: [linkedin.com/in/shakawath-hossain](https://www.linkedin.com/in/shakawath-hossain)  
 - 🌐 Portfolio: [mdshakwathportfolio.vercel.app](https://mdshakwathportfolio.vercel.app/)
+
+---
+Profile Views
+
+<p> <img src="https://komarev.com/ghpvc/?username=shakwath&label=Profile%20Views&color=0e75b6&style=flat" /> </p>
