@@ -1,7 +1,7 @@
 <h1 align="center">Assalamolaikhum</h1>
  <h3 align="center">A passionate frontend developer.</h3>
  
- - 🌱 I’m currently learning **Node.js,Express.js,MongoDB**
+ - 🌱 I’m currently learning **Next Js,Typescript**
 
  
  - 📫 Reach me **shakawathhossain0@gmail.com**
