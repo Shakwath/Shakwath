@@ -1,12 +1,11 @@
-# 👋 Assalamu Alaikum, I'm Md Shakwath Hossain
+# Assalamu Alaikum, I'm Md Shakwath Hossain
 
-### 🚀 Frontend Developer | React.js | Next.js | JavaScript
+### Frontend Developer | React.js | Next.js | JavaScript
 
 I'm a passionate **Frontend Developer** who loves building modern, responsive, and user-friendly web applications.
 
 * 🔭 Currently working on **React.js & Full-Stack Web Projects**
 * 🌱 Currently learning **Next.js & TypeScript**
-* 💡 Interested in **Frontend Development, UI/UX & Full-Stack Development**
 * 🎓 CSE Student at **International Islamic University Chittagong**
 * 📫 Email: **[shakawathhossain0@gmail.com](mailto:shakawathhossain0@gmail.com)**
 * 🌐 Portfolio: **https://mdshakwathportfolio.vercel.app/**
@@ -60,21 +59,15 @@ I'm a passionate **Frontend Developer** who loves building modern, responsive, a
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 💳 Payment Tracker
+### Payment Tracker
 
 A payment management system designed to track student payments, payment history, dues, and administrative activities.
 
 **Tech:** React.js, Vite, Tailwind CSS, DaisyUI, Node.js, Express.js, MongoDB
 
-### 🛒 Sole Style
-
-A modern sneaker e-commerce platform with authentication, product management, shopping functionality, and dashboard features.
-
-**Tech:** React.js, Firebase, Node.js, Express.js, MongoDB, Tailwind CSS
-
-### 💼 CareerForge BD
+### CareerForge BD
 
 An AI-powered career platform designed to help job seekers analyze CVs, improve ATS scores, identify missing skills, and prepare for interviews.
 
@@ -82,7 +75,7 @@ An AI-powered career platform designed to help job seekers analyze CVs, improve 
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shakwath&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
@@ -91,10 +84,20 @@ An AI-powered career platform designed to help job seekers analyze CVs, improve 
 
 ---
 
-## 🔥 GitHub Streak
+## GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shakwath&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=shakwath&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="180"
+    alt="GitHub Stats"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakwath&layout=compact&theme=tokyonight&hide_border=true" 
+    height="180"
+    alt="Top Languages"
+  />
 </p>
 
 ---
