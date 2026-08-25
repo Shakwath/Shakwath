@@ -23,7 +23,6 @@
 </a>
 
 </div>
----
 <h2>About Me</h2>
 
 <p>
@@ -86,14 +85,13 @@
   </tr>
 
 </table>
----
 
-## 📚 Currently Learning
+## Currently Learning
 
 - 🤖 **Natural Language Processing** – exploring core concepts for AI/ML project and research Paper  
 - ⚡ **Next.js** – building modern full-stack React applications with SSR & performance optimization  
 - 🔐 **Better Auth** – implementing secure and scalable authentication systems  
----
+  
 
 Profile Views
 
