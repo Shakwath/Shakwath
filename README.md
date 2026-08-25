@@ -3,41 +3,35 @@
 </div>
 
 <div align="center">
-  <h4 align="center">
-    A passionate CSE student from Bangladesh who loves creating impactful web applications.
-    <p><strong>|| Loves to work with JavaScript & TypeScript based frameworks</strong></p>
-  </h4>
+
+<p><strong>Full Stack Developer · CSE Undergrad</strong></p>
+
+<p>
+<strong>📍 Chittagong, Bangladesh</strong>
+&nbsp;&nbsp;
+<a href="mailto:shakawathhossain0@gmail.com"><strong>📧 shakawathhossain0@gmail.com</strong></a>
+</p>
+
+<a href="https://www.facebook.com/shakwathhossain.mohammad">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
+</a>
+<a href="[https://www.linkedin.com/in/shakawath-hossain](https://www.linkedin.com/in/mohammad-shakawath/)">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://mdshakwathportfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-0F4C5C?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio">
+</a>
+
 </div>
-
-<div align="center">
-  <p><strong>Full Stack Developer · CSE Undergrad</strong></p>
-
-  <p>
-    <strong>📍 Chittagong, Bangladesh</strong>
-    &nbsp;&nbsp;
-    <a href="mailto:shakawathhossain0@gmail.com">
-      <strong>📧 shakawathhossain0@gmail.com</strong>
-    </a>
-  </p>
-
-  <div style="margin: 15px 0;">
-    <a href="https://www.facebook.com/shakwathhossain.mohammad" target="_blank">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/>
-    </a>
-
-    <a href="https://www.linkedin.com/in/shakawath-hossain" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-
-    <a href="https://mdshakwathportfolio.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-0F4C5C?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
-    </a>
-  </div>
-</div>
-
-<br>
-
 ---
+<h2>About Me</h2>
+
+<p>
+  👨‍💻 CSE Undergraduate & Full Stack Developer <br>
+  🌱 Passionate about building modern & impactful web applications <br>
+  ⚡ Working with JavaScript, TypeScript, React & Node.js <br>
+  🎯 Always learning, building & improving
+</p>
 <h2 align="center">🛠️ My Skills</h2>
 
 <table align="center">
