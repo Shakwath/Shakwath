@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=MD%20Shakwath%20Hossain&fontSize=48&fontColor=ffffff&color=0:050B18,100:1E3A8A" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=MD%20Shakwath%20Hossain&fontSize=48&fontColor=ffffff&color=0:020617,100:0F4C5C" />
 </div>
 
 <div align="center">
@@ -8,7 +8,6 @@
   <p><strong>CSE Undergrad || Loves to work in Javascript & TypeScript based frameworks</strong></p>
 </div>
 
-Currently focused on **web application development** using JavaScript frameworks like **React** and **Node.js**, with a strong mindset for solving problems through clean, efficient code. </h4>
 
 ---
 <h2 align="center">🛠️ My Skills</h2>
