@@ -3,11 +3,39 @@
 </div>
 
 <div align="center">
-  <!-- <h1>MD Shakwath Hossain</h1> -->  
-<h4 align="center">a passionate CSE student from Bangladesh who loves creating impactful web applications.
-  <p><strong>CSE Undergrad || Loves to work in Javascript & TypeScript based frameworks</strong></p>
+  <h4 align="center">
+    A passionate CSE student from Bangladesh who loves creating impactful web applications.
+    <p><strong>|| Loves to work with JavaScript & TypeScript based frameworks</strong></p>
+  </h4>
 </div>
 
+<div align="center">
+  <p><strong>Full Stack Developer · CSE Undergrad</strong></p>
+
+  <p>
+    <strong>📍 Chittagong, Bangladesh</strong>
+    &nbsp;&nbsp;
+    <a href="mailto:shakawathhossain0@gmail.com">
+      <strong>📧 shakawathhossain0@gmail.com</strong>
+    </a>
+  </p>
+
+  <div style="margin: 15px 0;">
+    <a href="https://www.facebook.com/shakwathhossain.mohammad" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/>
+    </a>
+
+    <a href="https://www.linkedin.com/in/shakawath-hossain" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+
+    <a href="https://mdshakwathportfolio.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-0F4C5C?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
+    </a>
+  </div>
+</div>
+
+<br>
 
 ---
 <h2 align="center">🛠️ My Skills</h2>
@@ -72,15 +100,7 @@
 - ⚡ **Next.js** – building modern full-stack React applications with SSR & performance optimization  
 - 🔐 **Better Auth** – implementing secure and scalable authentication systems  
 ---
-## 📫 Contact Me
 
-- ✉️ Email: [shakawathhossain0@gmail.com](mailto:shakawathhossain0@gmail.com])  
-- 📱 Phone: +8801609503460 
-- 🌐 Facebook: [facebook.com/shakwathhossain.mohammad](https://www.facebook.com/shakwathhossain.mohammad)  
-- 💼 LinkedIn: [linkedin.com/in/shakawath-hossain](https://www.linkedin.com/in/shakawath-hossain)  
-- 🌐 Portfolio: [mdshakwathportfolio.vercel.app](https://mdshakwathportfolio.vercel.app/)
-
----
 Profile Views
 
 <p> <img src="https://komarev.com/ghpvc/?username=shakwath&label=Profile%20Views&color=0e75b6&style=flat" /> </p>
