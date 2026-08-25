@@ -1,8 +1,12 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=MD%20Shakwath%20Hossain&fontSize=48&fontColor=ffffff&color=0:050B18,100:1E3A8A" />
+</div>
 
-<h1 align="center"><b>Hi, I'm Md Shakwath Hossain!</b>
-</h1>
-<h3 align="center"><b>CSE Undergrad || Loves to work in Javascript & TypeScript based frameworks</b></h3>
-<h4 align="center">a passionate CSE student from Bangladesh who loves creating impactful web applications.  
+<div align="center">
+  <!-- <h1>MD Shakwath Hossain</h1> -->  
+<h4 align="center">a passionate CSE student from Bangladesh who loves creating impactful web applications.
+  <p><strong>CSE Undergrad || Loves to work in Javascript & TypeScript based frameworks</strong></p>
+</div>
 
 Currently focused on **web application development** using JavaScript frameworks like **React** and **Node.js**, with a strong mindset for solving problems through clean, efficient code. </h4>
 
