@@ -15,7 +15,7 @@
 <a href="https://www.facebook.com/shakwathhossain.mohammad">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
 </a>
-<a href="[https://www.linkedin.com/in/shakawath-hossain](https://www.linkedin.com/in/mohammad-shakawath/)">
+<a href="https://www.linkedin.com/in/shakawath-hossain-3a3561300/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="https://mdshakwathportfolio.vercel.app/">
