@@ -81,7 +81,7 @@
   <tr>
     <td><b>Programming</b></td>
     <td><img src="https://skillicons.dev/icons?i=cpp" width="24"/> C++</td>
-    <td>Problem solving & algorithms</td>
+    <td>Problem solving ,logical thinking & algorithms</td>
   </tr>
 
 </table>
